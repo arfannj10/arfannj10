@@ -19,9 +19,10 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Javascript" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIy-kwbzT4OphMEeb2z4kx63jULskLiaUrRV9e5yRj-w-J5bR_12DGxJ08ooPAHwFAZRc&usqp=CAU" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1jFMqH35GCmTiZ5qYXy5qduEBHFN27TusSEff4tNNOGCqi4OuD_uSHQpbGBq57EbtK6k&usqp=CAU" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Javascript" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIy-kwbzT4OphMEeb2z4kx63jULskLiaUrRV9e5yRj-w-J5bR_12DGxJ08ooPAHwFAZRc&usqp=CAU" style="padding-right:10px;" />]
+[<img align="left" alt="Golang" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1jFMqH35GCmTiZ5qYXy5qduEBHFN27TusSEff4tNNOGCqi4OuD_uSHQpbGBq57EbtK6k&usqp=CAU" style="padding-right:10px;" />]
+[<img align="left" alt="Bootstrap" width="30px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" style="padding-right:10px;" />]
 
 <br />
 <br />
@@ -42,4 +43,4 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/arfannj10#gh-dark-mode-only)
 
 
-
+[webdev]: https://github.com/vincentwidyan/vincentwidyan
