@@ -1,6 +1,5 @@
 # Hi there, I'm Arfan - [Arfan Hidayatullah](https://www.youtube.com/channel/UCVDPCCSYTCeStsYe4NIkhFA) 👋
 ## About me:
-- 🔭 I’m currently working at Foreign Language Development Institute(FLDI)
 - 🌱 I’m currently learning Golang and Javascript
 - 👯 I’m looking to collaborate as Web Developer
 - 🤔 I’m looking for suggest for Web Developer
