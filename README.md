@@ -7,14 +7,17 @@
 - 📫 How to reach me: arfannj10@gmail.com
 
 ## Education:
-
-#### 1. [Universitas Nurul Jadid](https://www.unuja.ac.id/) | Bachelor of Informatics Engineering | Probolinggo `2016-2020`
-   - Asistant Laboratorium of Languange
-   - Asistant Multimedia of FLDI
  #### 2. [SMA Nurul Jadid](https://www.smanj.sch.id/) | Language | Probolinggo `2013-2016`
+#### 1. [Universitas Nurul Jadid](https://www.unuja.ac.id/) | Bachelor of Informatics Engineering | Probolinggo `2016-2021`
+   - Directur of Association of Wonderful English Club (AWEC)
+   - Member of Pusdikom (Pusat Pendidikan Komputer)
+ #### 2. [Universitas Islam Negeri Maulana Malik Ibrahim Malang](https://uin-malang.ac.id/) | Master of Informatic Engineering | Probolinggo `Going on`
 
 ## Work Experience:
-#### 1. Foreign Languange Development Institute | Head of Curriculum| Probolinggo `February '2018 - Now`
+#### 1. Foreign Languange Development Institute | Head of Curriculum| Probolinggo `February '2018 - 2022`
+#### 2. Intensive Program Course | Secretary | Probolinggo `February '2017 - 2018`
+#### 3. Foreign Languange Development Institute | English Tutor | Probolinggo `February '2018 - 2022`
+
 
 ### Languages and Tools:
 
@@ -22,7 +25,6 @@
 [<img align="left" alt="Javascript" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIy-kwbzT4OphMEeb2z4kx63jULskLiaUrRV9e5yRj-w-J5bR_12DGxJ08ooPAHwFAZRc&usqp=CAU" style="padding-right:10px;" />]
 [<img align="left" alt="Golang" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1jFMqH35GCmTiZ5qYXy5qduEBHFN27TusSEff4tNNOGCqi4OuD_uSHQpbGBq57EbtK6k&usqp=CAU" style="padding-right:10px;" />]
 [<img align="left" alt="Bootstrap" width="30px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" style="padding-right:10px;" />]
-
 <br />
 <br />
 
